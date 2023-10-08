@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - C program that prints a sentence followed by a new line.
- * Return; 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
